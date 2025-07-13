@@ -6,9 +6,9 @@
 # Hello! 👋 My name is Alena
 
 ## 🛠 About Me
-- 🔍 Main focus: DevOps.
-- 🎓 Currently studying at **School 21 by Sber**.
-- 🧑🏻‍🎓  4th year student majoring in Business Informatics.
+- 👩‍💻 DevOps Engineer.
+- 🎓 Graduate of **School 21 by Sber**.
+- 🧑🏻‍🎓 5th year student majoring in Business Informatics.
 
 ## 📚 Technologies and Stack
 - **DevOps Tools:** Ansible, Kubernetes, Helm, Docker, Kustomize.
@@ -21,20 +21,3 @@
 - **Email:** alenkaz2207@mail.ru
 - [Telegram](https://t.me/alenkaz07)
 
-
-<!-- ## Hi there 👋 -->
-
-<!--
-**alenkaz07/alenkaz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
